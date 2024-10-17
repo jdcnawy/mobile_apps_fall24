@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Delius&family=Shadows+Into+Light+Two&display=swap');
+
+
+body {
+    font-family: "Delius", cursive;
+    padding: 5% 5% 5% 5%;
+    font-size: medium;
+    background-color: #d8c5d1;
+}
+
+h1 {
+    font-family: "Chewy", system-ui;
+}
+
+.subtitle {
+    font-family: "Shadows Into Light Two", cursive;
+    font-size: larger;
+}
+
+.buttonStyle {
+    color: white;
+    background-color: #fdc091;
+    padding: 5px;
+    border: 2px;
+    margin-left: 10px;
+}
+
+.contentLayout {
+    overflow-wrap: anywhere;
+}

@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "title": "Prep the vegetables for dinner tonight.",
+      "urgencyLevel": "Important",
+      "id": 2
+    },
+    {
+      "title": "Start studying for your midterm on Wednesday.",
+      "urgencyLevel": "Noncritical",
+      "id": 3
+    },
+    {
+      "title": "I named this Chore Keeper because I've been thinking about buying the game Core Keeper. They sound similar...",
+      "urgencyLevel": "ASAP",
+      "id": 4
+    },
+    {
+      "title": "This is an app meant to help you keep track of what chores you have to do.",
+      "urgencyLevel": "ASAP",
+      "id": 5
+    },
+    {
+      "title": "It's made for people like me, who are more responsive to softer visuals that are easier on the eyes when it comes to note-taking and the like.",
+      "urgencyLevel": "Important",
+      "id": 6
+    }
+  ]
+}
