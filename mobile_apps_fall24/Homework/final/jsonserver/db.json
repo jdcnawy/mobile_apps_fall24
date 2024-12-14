@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": "2a2d",
+      "title": "Metaphor: ReFantazio",
+      "gameDescription": "Awesome Fantasy JRPG!",
+      "gameThoughts": "My favorite game of the past few years.",
+      "rating": 5,
+      "image": null
+    },
+    {
+      "id": "c8a6",
+      "title": "snake game",
+      "gameDescription": "snake game",
+      "gameThoughts": "its mid",
+      "rating": 3,
+      "image": null
+    },
+    {
+      "title": "NieR Replicant",
+      "gameDescription": "Really cool game made by Yoko Taro.",
+      "gameThoughts": "Love this game and the soundtrack is awesome!",
+      "rating": 5,
+      "id": "9609"
+    }
+  ]
+}
